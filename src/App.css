@@ -1,0 +1,22 @@
+
+.jumbotron{
+  background-color: white;
+  display: flex;
+  flex-direction: column;  
+  width: 80%;
+  height: 200px;
+  align-items: center;
+  position: absolute;
+  left: 7%;
+  top: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form-control form-control-lg{
+  height: 300px;
+}
+
+#title{
+  margin-bottom: 5%;
+  font-size: 30px;
+}
